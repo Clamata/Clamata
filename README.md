@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Computer science student
 ------------------------
 
-My name is Klaudiusz. I'm a computer science student fascinated by technology and constantly exploring new ways to solve problems through programming. I also have a strong interest in art and enjoy creating, whether it’s through writing code or crafting illustrations. For me it’s all about the joy of bringing ideas to life in different forms.
+My name is Klaudiusz. I'm a computer science student fascinated by technology. I enjoy exploring the space where technology, problem-solving, and creativity meet whether through code, data, or visual expression. For me it’s all about the joy of bringing ideas to life in different forms.
 
 
 ### Skills
